@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="890e2f7a-afbd-454b-9028-d4c9159d88c4" name="Changes" comment="created Task3">
-      <change afterPath="$PROJECT_DIR$/seminar_Task_4.py" afterDir="false" />
+    <list default="true" id="890e2f7a-afbd-454b-9028-d4c9159d88c4" name="Changes" comment="created Task4">
+      <change afterPath="$PROJECT_DIR$/seminar_Task_5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,12 +37,13 @@
     "Python.seminar_Task_2.executor": "Run",
     "Python.seminar_Task_3.executor": "Run",
     "Python.seminar_Task_4.executor": "Run",
+    "Python.seminar_Task_5.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.seminar_Task_4">
+  <component name="RunManager" selected="Python.seminar_Task_5">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="diving_into_Python_seminar_1" />
       <option name="ENV_FILES" value="" />
@@ -153,8 +154,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="seminar_Task_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="diving_into_Python_seminar_1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seminar_Task_5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.seminar_Task_5" />
         <item itemvalue="Python.seminar_Task_4" />
         <item itemvalue="Python.seminar_Task_3" />
         <item itemvalue="Python.seminar_Task_2" />
@@ -242,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744036833829</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="created Task4">
+      <option name="closed" value="true" />
+      <created>1744056707688</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1744056707689</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -253,7 +285,8 @@
     <MESSAGE value="changes Task1" />
     <MESSAGE value="changes Task1 and Task2" />
     <MESSAGE value="created Task3" />
-    <option name="LAST_COMMIT_MESSAGE" value="created Task3" />
+    <MESSAGE value="created Task4" />
+    <option name="LAST_COMMIT_MESSAGE" value="created Task4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
